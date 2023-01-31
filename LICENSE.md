@@ -9,7 +9,7 @@ CC-BY-4.0 AND MIT
     last-edit by: Mervin G.
     last-edit date: 29, January 2023
     compiler: GitHub-Flavored Markdown
-    version: 1.0.1
+    version: 1.0.2
     usage: {PATH-TO-PROJECT-ROOT} LICENSE.md
     description: Detail the license(s) applied to the project
 -->

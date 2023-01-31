@@ -15,7 +15,7 @@ You must comply with both if you use this work.
     last-edit by: Mervin G.
     last-edit date: 29, January 2023
     compiler: GitHub-Flavored Markdown
-    version: 1.0.0
+    version: 1.0.1
     usage: {PATH-TO-PROJECT-ROOT} README.md
     description: Overview, of project details, and quickstart-guide
 -->

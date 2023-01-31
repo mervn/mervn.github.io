@@ -58,7 +58,7 @@ Sincerrrrr
     last-edit by: Mervin G.
     last-edit date: 29, January 2023
     compiler: GitHub-Flavored Markdown
-    version: 1.0.1
+    version: 1.0.2
     usage: {PATH-TO-PROJECT-ROOT} docs/index.md
     description: Entry-point to the webpage, contains redirect(s) and synopsis
 -->
