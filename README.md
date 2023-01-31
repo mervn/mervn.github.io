@@ -9,7 +9,7 @@ You must comply with both if you use this work.
 
 
 
-<!---
+<!--
     SPDX-FileCopyrightText: 2023 Mervin G.
     SPDX-License-Identifier: CC0-1.0
     last-edit by: Mervin G.
@@ -18,4 +18,4 @@ You must comply with both if you use this work.
     version: 1.0.0
     usage: {PATH-TO-PROJECT-ROOT} README.md
     description: Overview, of project details, and quickstart-guide
---->
+-->
