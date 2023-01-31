@@ -1,31 +1,14 @@
 ---
 layout: default
 permalink: /
-title: Mervin's Text
+title: Meg's Brief
 ---
 
-# Mervin's Text
-
-[GITHUB][GIT]
+[\[ View On GitHub \]][REPO]
 
 ___
 
-**Greetings,**
-
-You may be wondering why you're here.
-
-The HTML will provide some cliff-notes; whether they provide an adequate answer
-to that wonder is up to your discretion.
-<br>
-I would *like* to say it's up to my discretion but I also ***love*** being outside
-of a courtroom - not that I've been in one... **yet**.
-
-Hopefully the user-experience is amicable towards you, as the [codebase][CODE]
-is held up by luckily-timed bug interactions. Good lu¢k?
-
-___
-
-## CLIFF NOTES
+### ABOUT:
 
 1. What statement can summarize your design-style?
 	+ Answer: **Simple is better than complex, complex is better than complicated.**
@@ -35,19 +18,57 @@ ___
 	+ Answer: **Because I think in state-machines, I'm confident in adjusting
 	to any language in a reasonable time.**
 4. How are you keeping up with the industry?
-	+ Answer: **I read. A lot. I continously aim to sharpen my fundementals;
-	seeing new ways people solve problems is apart of that process.**
+	+ Answer: **I read, a lot, in pursuit of sharpening my fundementals;
+	newer solutions are apart of that process.**
 5. Describe yourself in one word?
 	+ Answer: **Tabs**
-	
+
 ___
 
-Sincerrrrr
-<br>
-\^D
+### PORTFOLIO:
 
-[GIT]: (/)
-[CODE]: (..)
+![Meg's GitHub Activity][ACT-STAT]
+
+![Meg's GitHub Language][LANG-STAT]
+
+___
+
+### TOOLS:
+
+[<img src="assets/images/bash.svg" width="40" height="40">][BASH]
+[<img src="assets/images/csharp.svg" width="40" height="40">][CSHARP]
+[<img src="assets/images/git.svg" width="40" height="40">][GIT]
+[<img src="assets/images/github.svg" width="40" height="40">][GITHUB]
+[<img src="assets/images/linux.svg" width="40" height="40">][LINUX]
+[<img src="assets/images/markdown.svg" width="40" height="40">][MDOWN]
+[<img src="assets/images/python.svg" width="40" height="40">][PYTHON]
+[<img src="assets/images/shortcuts.svg" width="40" height="40">][SHRTCT]
+[<img src="assets/images/swift.svg" width="40" height="40">][SWIFT]
+[<img src="assets/images/unity.svg" width="40" height="40">][UNITY]
+[<img src="assets/images/unix.svg" width="40" height="40">][UNIX]
+
+<!-- Directory -->
+
+[REPO]: https://github.com/meg-io/meg-io.github.io
+
+<!-- Portfolio -->
+
+[ACT-STAT]: https://github-readme-stats.vercel.app/api?username=meg-io&count_private=true&theme=solarized-light&card_width=500&custom_title=Activity&show_icons=true
+[LANG-STAT]: https://github-readme-stats.vercel.app/api/top-langs?username=meg-io&theme=solarized-light&card_width=500&layout=default
+
+<!-- Tools -->
+
+[BASH]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+[CSHARP]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[GIT]: https://en.wikipedia.org/wiki/Git
+[GITHUB]: https://en.wikipedia.org/wiki/GitHub
+[LINUX]: https://en.wikipedia.org/wiki/Linux
+[MDOWN]: https://en.wikipedia.org/wiki/Markdown
+[PYTHON]: https://en.wikipedia.org/wiki/Python_(programming_language)
+[SHRTCT]: https://en.wikipedia.org/wiki/Shortcuts_(app)
+[SWIFT]: https://en.wikipedia.org/wiki/Swift_(programming_language)
+[UNIX]: https://en.wikipedia.org/wiki/Unix
+[UNITY]: https://en.wikipedia.org/wiki/Unity_(game_engine)
 
 
 
@@ -56,9 +77,9 @@ Sincerrrrr
     SPDX-FileCopyrightText: 2023 Mervin G.
     SPDX-License-Identifier: CC-BY-4.0
     last-edit by: Mervin G.
-    last-edit date: 29, January 2023
+    last-edit date: 30, January 2023
     compiler: GitHub-Flavored Markdown
-    version: 1.0.2
+    version: 2.0.0
     usage: {PATH-TO-PROJECT-ROOT} docs/index.md
     description: Entry-point to the webpage, contains redirect(s) and synopsis
 -->
