@@ -19,10 +19,10 @@ To use this work, you must comply with this license.
 <!--
     SPDX-FileCopyrightText: 2023 Mervin G.
     SPDX-License-Identifier: CC0-1.0
-    last-edit by: Mervin G.
-    last-edit date: 29, January 2023
+    line-ending: unix-lf
+    encoding: utf-8
     compiler: GitHub-Flavored Markdown
-    version: 1.0.2
-    usage: {PATH-TO-PROJECT-ROOT} README.md
+    version: 1.0.3
+    usage: cat README.md
     description: Overview, of project details, and quickstart-guide
 -->

@@ -76,10 +76,10 @@ ___
 <!--
     SPDX-FileCopyrightText: 2023 Mervin G.
     SPDX-License-Identifier: MIT
-    last-edit by: Mervin G.
-    last-edit date: 30, January 2023
+    line-ending: unix-lf
+    encoding: utf-8
     compiler: GitHub-Flavored Markdown
-    version: 2.0.1
-    usage: {PATH-TO-PROJECT-ROOT} docs/index.md
+    version: 2.0.2
+    usage: cat .../docs/index.md
     description: Entry-point to the webpage, contains redirect(s) and synopsis
 -->
