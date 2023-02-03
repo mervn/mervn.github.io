@@ -42,6 +42,7 @@ ___
 [<img src="assets/images/linux.svg" width="40" height="40">][LINUX]
 [<img src="assets/images/markdown.svg" width="40" height="40">][MDOWN]
 [<img src="assets/images/python.svg" width="40" height="40">][PYTHON]
+[<img src="assets/images/shortcuts.png" width="40" height="40">][SHRTCT]
 [<img src="assets/images/swift.svg" width="40" height="40">][SWIFT]
 [<img src="assets/images/unity.svg" width="40" height="40">][UNITY]
 
@@ -63,6 +64,7 @@ ___
 [LINUX]: https://en.wikipedia.org/wiki/Linux
 [MDOWN]: https://en.wikipedia.org/wiki/Markdown
 [PYTHON]: https://en.wikipedia.org/wiki/Python_(programming_language)
+[SHRTCT]: https://en.wikipedia.org/wiki/Shortcuts_(app)
 [SWIFT]: https://en.wikipedia.org/wiki/Swift_(programming_language)
 [UNITY]: https://en.wikipedia.org/wiki/Unity_(game_engine)
 
