@@ -1,10 +1,17 @@
 ## License
 
-This work is dual-licensed under CC-BY-4.0 and MIT.
+This work is licensed under MIT.
 <br>
-You must comply with both if you use this work.
+To use this work, you must comply with this license.
 
-`SPDX-License-Identifier: CC-BY-4.0 AND MIT`
+`SPDX-License-Identifier: MIT`
+
+> Some files may have different licensing-requirements.
+>
+> To find the file's applied license,
+> read the `SPDX-License-Identifier` at the file's bottom.
+> <br>
+> Every license present in this project is listed [here](LICENSES).
 
 
 
@@ -15,7 +22,7 @@ You must comply with both if you use this work.
     last-edit by: Mervin G.
     last-edit date: 29, January 2023
     compiler: GitHub-Flavored Markdown
-    version: 1.0.1
+    version: 1.0.2
     usage: {PATH-TO-PROJECT-ROOT} README.md
     description: Overview, of project details, and quickstart-guide
 -->

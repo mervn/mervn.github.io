@@ -75,11 +75,11 @@ ___
 
 <!--
     SPDX-FileCopyrightText: 2023 Mervin G.
-    SPDX-License-Identifier: CC-BY-4.0
+    SPDX-License-Identifier: MIT
     last-edit by: Mervin G.
     last-edit date: 30, January 2023
     compiler: GitHub-Flavored Markdown
-    version: 2.0.0
+    version: 2.0.1
     usage: {PATH-TO-PROJECT-ROOT} docs/index.md
     description: Entry-point to the webpage, contains redirect(s) and synopsis
 -->
