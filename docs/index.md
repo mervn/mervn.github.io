@@ -42,10 +42,8 @@ ___
 [<img src="assets/images/linux.svg" width="40" height="40">][LINUX]
 [<img src="assets/images/markdown.svg" width="40" height="40">][MDOWN]
 [<img src="assets/images/python.svg" width="40" height="40">][PYTHON]
-[<img src="assets/images/shortcuts.svg" width="40" height="40">][SHRTCT]
 [<img src="assets/images/swift.svg" width="40" height="40">][SWIFT]
 [<img src="assets/images/unity.svg" width="40" height="40">][UNITY]
-[<img src="assets/images/unix.svg" width="40" height="40">][UNIX]
 
 <!-- Directory -->
 
@@ -53,8 +51,8 @@ ___
 
 <!-- Portfolio -->
 
-[ACT-STAT]: https://github-readme-stats.vercel.app/api?username=meg-io&count_private=true&theme=solarized-light&card_width=500&custom_title=Activity&show_icons=true
-[LANG-STAT]: https://github-readme-stats.vercel.app/api/top-langs?username=meg-io&theme=solarized-light&card_width=500&layout=default
+[ACT-STAT]: https://github-readme-stats.vercel.app/api?username=meg-io&count_private=true&theme=swift&card_width=500&custom_title=Activity&show_icons=true
+[LANG-STAT]: https://github-readme-stats.vercel.app/api/top-langs?username=meg-io&theme=swift&card_width=500&layout=default
 
 <!-- Tools -->
 
@@ -65,9 +63,7 @@ ___
 [LINUX]: https://en.wikipedia.org/wiki/Linux
 [MDOWN]: https://en.wikipedia.org/wiki/Markdown
 [PYTHON]: https://en.wikipedia.org/wiki/Python_(programming_language)
-[SHRTCT]: https://en.wikipedia.org/wiki/Shortcuts_(app)
 [SWIFT]: https://en.wikipedia.org/wiki/Swift_(programming_language)
-[UNIX]: https://en.wikipedia.org/wiki/Unix
 [UNITY]: https://en.wikipedia.org/wiki/Unity_(game_engine)
 
 
@@ -79,7 +75,7 @@ ___
     line-ending: unix-lf
     encoding: utf-8
     compiler: GitHub-Flavored Markdown
-    version: 2.0.2
+    version: 2.1.0
     usage: cat .../docs/index.md
     description: Entry-point to the webpage, contains redirect(s) and synopsis
 -->
