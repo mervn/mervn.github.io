@@ -41,6 +41,6 @@ SPDX-License-Identifier: MIT
 > Some files may have different licensing-requirements.
 >
 > To find the file's applied license,
-> search for the `SPDX-License-Identifier` with(in) the file.
+> search for `SPDX-License-Identifier` with(in) file.
 > <br>
 > Every license present in this project is listed [here](LICENSES).
