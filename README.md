@@ -33,11 +33,14 @@ This work is licensed under MIT.
 <br>
 To use this work, you must comply with this license.
 
-`SPDX-License-Identifier: MIT`
+```
+SPDX-FileCopyrightText: 2023 Mervin G.
+SPDX-License-Identifier: MIT
+```
 
 > Some files may have different licensing-requirements.
 >
 > To find the file's applied license,
-> look for thr `SPDX-License-Identifier` included with(in) the file.
+> search for the `SPDX-License-Identifier` with(in) the file.
 > <br>
 > Every license present in this project is listed [here](LICENSES).
