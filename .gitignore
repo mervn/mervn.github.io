@@ -2,17 +2,3 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-
-
-
-
-## <footnote>
-##    SPDX-FileCopyrightText: 2023 Mervin G.
-##    SPDX-License-Identifier: CC0-1.0
-##    line-ending: unix-lf
-##    encoding: utf-8
-##    compiler: git
-##    version: 1.0.3
-##    usage: cat .gitignore
-##    description: List of files, and extensions, to ignore during git commit
-## <footnote>

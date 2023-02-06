@@ -67,17 +67,3 @@ ___
 [SHRTCT]: https://en.wikipedia.org/wiki/Shortcuts_(app)
 [SWIFT]: https://en.wikipedia.org/wiki/Swift_(programming_language)
 [UNITY]: https://en.wikipedia.org/wiki/Unity_(game_engine)
-
-
-
-
-<!--
-    SPDX-FileCopyrightText: 2023 Mervin G.
-    SPDX-License-Identifier: MIT
-    line-ending: unix-lf
-    encoding: utf-8
-    compiler: GitHub-Flavored Markdown
-    version: 2.1.0
-    usage: cat .../docs/index.md
-    description: Entry-point to the webpage, contains redirect(s) and synopsis
--->

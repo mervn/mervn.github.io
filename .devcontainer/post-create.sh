@@ -10,17 +10,3 @@ fi
 if [ -f Gemfile ]; then
     bundle install
 fi
-
-
-
-
-<<footnote
-    SPDX-FileCopyrightText: 2022 Microsoft
-    SPDX-License-Identifier: MIT
-    line-ending: unix-lf
-    encoding: utf-8
-    compiler: POSIX Shell
-    version: 1.0.2
-    usage: ./post-create.sh
-    description: Install Bundler and Jekyll
-footnote

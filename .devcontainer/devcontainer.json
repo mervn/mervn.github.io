@@ -25,17 +25,3 @@
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 }
-
-
-
-
-/*
-    SPDX-FileCopyrightText: 2022 Microsoft
-    SPDX-License-Identifier: MIT
-    line-ending: unix-lf
-    encoding: utf-8
-    compiler: JSON
-    version: 1.0.2
-    usage: cat .../.devcontainer/.devcontainer.json
-    description: Development container configurations
-*/
