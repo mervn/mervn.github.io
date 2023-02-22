@@ -5,7 +5,6 @@
   SPDX-FileType: DOCUMENTATION
   SPDX-FileType: TEXT
 
-  SPDX-FileName: ./README.md
   SPDX-FileComment: Overview of project details.
 -->
 

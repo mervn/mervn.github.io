@@ -10,7 +10,6 @@ title: Meg's Brief
 
   SPDX-FileType: SOURCE
 
-  SPDX-FileName: ./docs/index.md
   SPDX-FileComment: Webpage entry-point.
 -->
 
