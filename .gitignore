@@ -1,3 +1,8 @@
+# SPDX-License-Identifer: CC0-1.0
+# SPDX-FileCopyrightText: 2023 Mervin G.
+#
+# SPDX-FileType: SOURCE
+
 _site/
 .sass-cache/
 .jekyll-cache/

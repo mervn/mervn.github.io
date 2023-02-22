@@ -1,3 +1,14 @@
+<!--
+  SPDX-License-Identifer: CC0-1.0
+  SPDX-FileCopyrightText: 2023 Mervin G.
+
+  SPDX-FileType: DOCUMENTATION
+  SPDX-FileType: TEXT
+
+  SPDX-FileName: ./README.md
+  SPDX-FileComment: Overview of project details.
+-->
+
 # Account Webpage
 
 This repository contains the assets, configurations, and structure
@@ -34,8 +45,8 @@ This work is licensed under MIT.
 To use this work, you must comply with this license.
 
 ```
-SPDX-FileCopyrightText: 2023 Mervin G.
 SPDX-License-Identifier: MIT
+SPDX-FileCopyrightText: 2023 Mervin G.
 ```
 
 > Some files may have different licensing-requirements.

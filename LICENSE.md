@@ -1,3 +1,14 @@
+<!--
+  SPDX-License-Identifer: CC0-1.0
+  SPDX-FileCopyrightText: 2023 Mervin G.
+
+  SPDX-FileType: OTHER
+  SPDX-FileType: TEXT
+
+  SPDX-FileName: ./LICENSE.md
+  SPDX-FileComment: Project-license declaration.
+-->
+
 MIT License
 
 Copyright (c) 2023 Mervin G.

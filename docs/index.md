@@ -4,6 +4,16 @@ permalink: /
 title: Meg's Brief
 ---
 
+<!--
+  SPDX-License-Identifer: MIT
+  SPDX-FileCopyrightText: 2023 Mervin G.
+
+  SPDX-FileType: SOURCE
+
+  SPDX-FileName: ./docs/index.md
+  SPDX-FileComment: Webpage entry-point.
+-->
+
 [\[ View On GitHub \]][REPO]
 
 ___
