@@ -1,9 +1,5 @@
-/*
-  SPDX-License-Identifer: MIT
-  SPDX-FileCopyrightText: 2022 Microsoft Corporation. All rights reserved.
-
-  SPDX-FileType: OTHER
-*/
+// SPDX-License-Identifer: MIT
+// SPDX-FileCopyrightText: 2022 Microsoft Corporation. All rights reserved.
 
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
