@@ -61,8 +61,8 @@ ___
 
 <!-- Portfolio -->
 
-[ACT-STAT]: https://github-readme-stats.vercel.app/api?username=meg-io&count_private=true&theme=swift&card_width=500&custom_title=Activity&show_icons=true
-[LANG-STAT]: https://github-readme-stats.vercel.app/api/top-langs?username=meg-io&theme=swift&card_width=500&layout=default
+[ACT-STAT]: https://github-readme-stats.vercel.app/api?username=mervn&count_private=true&theme=swift&card_width=500&custom_title=Activity&show_icons=true
+[LANG-STAT]: https://github-readme-stats.vercel.app/api/top-langs?username=mervn&theme=swift&card_width=500&layout=default
 
 <!-- Tools -->
 
