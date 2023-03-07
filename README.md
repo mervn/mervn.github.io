@@ -19,8 +19,8 @@ ___
 
 The **only** official URLs are:
 
-+ meg.from.io
-+ meg-io.github.io
++ mervin.root.sx
++ mervn.github.io
 
 > If these URLs change, they will be updated here as soon as possible.
 
