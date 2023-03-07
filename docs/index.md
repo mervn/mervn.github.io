@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: Meg's Brief
+title: Mervin's Portrait
 ---
 
 <!--
